@@ -82,7 +82,7 @@ to GET a specific order , you can add its id at the end of the endpoint : api/or
 <br> <br> <br>
 
 
-- ### add to cart
+- ### add to cart ( users )
 
 ##### Endpoint : http://127.0.0.1:8000/api/cart/add-item/
 
@@ -95,7 +95,7 @@ adds a specific item to the user's cart
 <br> <br> <br>
 
 
-- ### Place Order
+- ### Place Order ( users )
 
 ##### Endpoint : http://127.0.0.1:8000/api/place_order/
 
@@ -109,7 +109,7 @@ place order with the items in the user's cart , if no items found it returns ERR
 <br> <br> <br>
 
 
-- ### Assign user to group
+- ### Assign user to group ( managers )
 
 ##### Endpoint : http://127.0.0.1:8000/api/groups/<slug:groupName>/users/
 
@@ -124,7 +124,7 @@ assign the user with id = userId to a group
 <br> <br> <br>
 
 
-- ### remove user from group
+- ### remove user from group ( managers )
 
 ##### Endpoint : http://127.0.0.1:8000/api/groups/<slug:groupName>/users/<int:pk>/
 

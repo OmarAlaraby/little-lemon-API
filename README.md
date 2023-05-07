@@ -1,5 +1,5 @@
 # little-lemon-API
-project littlelemon API for API course from Meta
+this is the graded assessment in Backend course with djagno & REST frameworks from Meta.
 
 
 <br><hr><br>

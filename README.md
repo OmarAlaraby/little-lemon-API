@@ -2,10 +2,60 @@
 project littlelemon API for API course from Meta
 
 
-<hr>
+<br><hr><br>
+
+# Installation
+
+### follow those steps carefully
+
+1. ##### colne the repo using the following command :
+
+` git clone git@github.com:OmarAlaraby/little-lemon-API.git `
+
 <br>
 
+
+2. ##### install pipenv
+
+`pip install pipenv`
+
+<br>
+
+3. go to project's direction
+
+`cd Codeforces-Tasks-API`
+
+<br>
+
+4. activate the virtual environment
+
+`pipenv shell`
+
+<br>
+
+5. ##### install dependency
+
+`pipenv install Pipfile`
+
+<br>
+
+6. ##### run the local server
+
+`python manage.py runserver`
+
+<br>
+
+now you are ready to call the endpoints
+
+enjoy :)
+
+
+<br><hr><br>
+
+
 # ENDPOINTS
+
+<br> <br>
 
 - ### user autherization
 i use the built-in endpoints in djoser , for more see [djoser docs](https://djoser.readthedocs.io/en/latest/)

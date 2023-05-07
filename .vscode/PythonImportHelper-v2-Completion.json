@@ -1,0 +1,819 @@
+[
+    {
+        "label": "settings",
+        "importPath": "django.conf",
+        "description": "django.conf",
+        "isExtraImport": true,
+        "detail": "django.conf",
+        "documentation": {}
+    },
+    {
+        "label": "settings",
+        "importPath": "django.conf",
+        "description": "django.conf",
+        "isExtraImport": true,
+        "detail": "django.conf",
+        "documentation": {}
+    },
+    {
+        "label": "settings",
+        "importPath": "django.conf",
+        "description": "django.conf",
+        "isExtraImport": true,
+        "detail": "django.conf",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "django.db.models.deletion",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "django.db.models.deletion",
+        "description": "django.db.models.deletion",
+        "detail": "django.db.models.deletion",
+        "documentation": {}
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "AppConfig",
+        "importPath": "django.apps",
+        "description": "django.apps",
+        "isExtraImport": true,
+        "detail": "django.apps",
+        "documentation": {}
+    },
+    {
+        "label": "User",
+        "importPath": "django.contrib.auth.models",
+        "description": "django.contrib.auth.models",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth.models",
+        "documentation": {}
+    },
+    {
+        "label": "User",
+        "importPath": "django.contrib.auth.models",
+        "description": "django.contrib.auth.models",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth.models",
+        "documentation": {}
+    },
+    {
+        "label": "Group",
+        "importPath": "django.contrib.auth.models",
+        "description": "django.contrib.auth.models",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth.models",
+        "documentation": {}
+    },
+    {
+        "label": "permissions",
+        "importPath": "rest_framework",
+        "description": "rest_framework",
+        "isExtraImport": true,
+        "detail": "rest_framework",
+        "documentation": {}
+    },
+    {
+        "label": "serializers",
+        "importPath": "rest_framework",
+        "description": "rest_framework",
+        "isExtraImport": true,
+        "detail": "rest_framework",
+        "documentation": {}
+    },
+    {
+        "label": "routers",
+        "importPath": "rest_framework",
+        "description": "rest_framework",
+        "isExtraImport": true,
+        "detail": "rest_framework",
+        "documentation": {}
+    },
+    {
+        "label": "viewsets",
+        "importPath": "rest_framework",
+        "description": "rest_framework",
+        "isExtraImport": true,
+        "detail": "rest_framework",
+        "documentation": {}
+    },
+    {
+        "label": "status",
+        "importPath": "rest_framework",
+        "description": "rest_framework",
+        "isExtraImport": true,
+        "detail": "rest_framework",
+        "documentation": {}
+    },
+    {
+        "label": "post_save",
+        "importPath": "django.db.models.signals",
+        "description": "django.db.models.signals",
+        "isExtraImport": true,
+        "detail": "django.db.models.signals",
+        "documentation": {}
+    },
+    {
+        "label": "receiver",
+        "importPath": "django.dispatch",
+        "description": "django.dispatch",
+        "isExtraImport": true,
+        "detail": "django.dispatch",
+        "documentation": {}
+    },
+    {
+        "label": "Token",
+        "importPath": "rest_framework.authtoken.models",
+        "description": "rest_framework.authtoken.models",
+        "isExtraImport": true,
+        "detail": "rest_framework.authtoken.models",
+        "documentation": {}
+    },
+    {
+        "label": "get_user_model",
+        "importPath": "django.contrib.auth",
+        "description": "django.contrib.auth",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth",
+        "documentation": {}
+    },
+    {
+        "label": "TestCase",
+        "importPath": "django.test",
+        "description": "django.test",
+        "isExtraImport": true,
+        "detail": "django.test",
+        "documentation": {}
+    },
+    {
+        "label": "path",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "path",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "include",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "render",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "get_object_or_404",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "api_view",
+        "importPath": "rest_framework.decorators",
+        "description": "rest_framework.decorators",
+        "isExtraImport": true,
+        "detail": "rest_framework.decorators",
+        "documentation": {}
+    },
+    {
+        "label": "permission_classes",
+        "importPath": "rest_framework.decorators",
+        "description": "rest_framework.decorators",
+        "isExtraImport": true,
+        "detail": "rest_framework.decorators",
+        "documentation": {}
+    },
+    {
+        "label": "Response",
+        "importPath": "rest_framework.response",
+        "description": "rest_framework.response",
+        "isExtraImport": true,
+        "detail": "rest_framework.response",
+        "documentation": {}
+    },
+    {
+        "label": "IsAdminUser",
+        "importPath": "rest_framework.permissions",
+        "description": "rest_framework.permissions",
+        "isExtraImport": true,
+        "detail": "rest_framework.permissions",
+        "documentation": {}
+    },
+    {
+        "label": "os",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "os",
+        "description": "os",
+        "detail": "os",
+        "documentation": {}
+    },
+    {
+        "label": "get_asgi_application",
+        "importPath": "django.core.asgi",
+        "description": "django.core.asgi",
+        "isExtraImport": true,
+        "detail": "django.core.asgi",
+        "documentation": {}
+    },
+    {
+        "label": "Path",
+        "importPath": "pathlib",
+        "description": "pathlib",
+        "isExtraImport": true,
+        "detail": "pathlib",
+        "documentation": {}
+    },
+    {
+        "label": "get_wsgi_application",
+        "importPath": "django.core.wsgi",
+        "description": "django.core.wsgi",
+        "isExtraImport": true,
+        "detail": "django.core.wsgi",
+        "documentation": {}
+    },
+    {
+        "label": "sys",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "sys",
+        "description": "sys",
+        "detail": "sys",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "menu.migrations.0001_initial",
+        "description": "menu.migrations.0001_initial",
+        "peekOfCode": "class Migration(migrations.Migration):\n    initial = True\n    dependencies = [\n        migrations.swappable_dependency(settings.AUTH_USER_MODEL),\n    ]\n    operations = [\n        migrations.CreateModel(\n            name='Catigory',\n            fields=[\n                ('id', models.BigAutoField(auto_created=True, primary_key=True, serialize=False, verbose_name='ID')),",
+        "detail": "menu.migrations.0001_initial",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "menu.migrations.0002_alter_cart_user_alter_catigory_name_and_more",
+        "description": "menu.migrations.0002_alter_cart_user_alter_catigory_name_and_more",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        migrations.swappable_dependency(settings.AUTH_USER_MODEL),\n        ('menu', '0001_initial'),\n    ]\n    operations = [\n        migrations.AlterField(\n            model_name='cart',\n            name='user',\n            field=models.ForeignKey(on_delete=django.db.models.deletion.CASCADE, related_name='cart', to=settings.AUTH_USER_MODEL),",
+        "detail": "menu.migrations.0002_alter_cart_user_alter_catigory_name_and_more",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "menu.migrations.0003_order_orderitem",
+        "description": "menu.migrations.0003_order_orderitem",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        migrations.swappable_dependency(settings.AUTH_USER_MODEL),\n        ('menu', '0002_alter_cart_user_alter_catigory_name_and_more'),\n    ]\n    operations = [\n        migrations.CreateModel(\n            name='Order',\n            fields=[\n                ('id', models.BigAutoField(auto_created=True, primary_key=True, serialize=False, verbose_name='ID')),",
+        "detail": "menu.migrations.0003_order_orderitem",
+        "documentation": {}
+    },
+    {
+        "label": "MyAppConfig",
+        "kind": 6,
+        "importPath": "menu.apps",
+        "description": "menu.apps",
+        "peekOfCode": "class MyAppConfig(AppConfig):\n    default_auto_field = 'django.db.models.BigAutoField'\n    name = 'menu'\n    def ready(self):\n        import menu.signals",
+        "detail": "menu.apps",
+        "documentation": {}
+    },
+    {
+        "label": "Catigory",
+        "kind": 6,
+        "importPath": "menu.models",
+        "description": "menu.models",
+        "peekOfCode": "class Catigory(models.Model):\n    name = models.CharField(max_length=50, db_index=True)\n    def __str__(self):\n        return self.name\nclass MenuItem(models.Model):\n    # required\n    name = models.CharField(max_length=100, db_index=True)\n    #url = models.CharField(max_length=255)\n    #icon = models.ImageField(blank=True, max_length=100)\n    price = models.DecimalField(max_digits=5, decimal_places=2, db_index=True)",
+        "detail": "menu.models",
+        "documentation": {}
+    },
+    {
+        "label": "MenuItem",
+        "kind": 6,
+        "importPath": "menu.models",
+        "description": "menu.models",
+        "peekOfCode": "class MenuItem(models.Model):\n    # required\n    name = models.CharField(max_length=100, db_index=True)\n    #url = models.CharField(max_length=255)\n    #icon = models.ImageField(blank=True, max_length=100)\n    price = models.DecimalField(max_digits=5, decimal_places=2, db_index=True)\n    description = models.TextField(null=True)\n    catigory = models.ForeignKey(Catigory , on_delete=models.CASCADE)\n    def __str__(self):\n        return self.name",
+        "detail": "menu.models",
+        "documentation": {}
+    },
+    {
+        "label": "Cart",
+        "kind": 6,
+        "importPath": "menu.models",
+        "description": "menu.models",
+        "peekOfCode": "class Cart(models.Model):\n    user = models.ForeignKey(User, on_delete=models.CASCADE, related_name='cart')\n    menu_item = models.ForeignKey(MenuItem, on_delete=models.CASCADE)\n    quantity = models.SmallIntegerField()\n    unit_price = models.DecimalField(max_digits=5, decimal_places=2)\n    total_price = models.DecimalField(max_digits=5, decimal_places=2)\n    class Meta:\n        unique_together = ('user' , 'menu_item')\n    def __str__(self):\n        return self.user.username",
+        "detail": "menu.models",
+        "documentation": {}
+    },
+    {
+        "label": "Order",
+        "kind": 6,
+        "importPath": "menu.models",
+        "description": "menu.models",
+        "peekOfCode": "class Order(models.Model):\n    user = models.ForeignKey(User, related_name='Order' ,on_delete=models.CASCADE)\n    delivery_crew = models.ForeignKey(User, verbose_name=\"delivery_crew\", on_delete=models.SET_NULL, null=True)\n    is_delivered = models.BooleanField(db_index=True)\n    total_price = models.DecimalField(max_digits=5, decimal_places=2)\n    date = models.DateTimeField(auto_now_add=True, db_index=True)\n    def __str__(self):\n        return self.user.username\nclass OrderItem(models.Model):\n    order = models.ForeignKey(Order, related_name='Items', on_delete=models.CASCADE)",
+        "detail": "menu.models",
+        "documentation": {}
+    },
+    {
+        "label": "OrderItem",
+        "kind": 6,
+        "importPath": "menu.models",
+        "description": "menu.models",
+        "peekOfCode": "class OrderItem(models.Model):\n    order = models.ForeignKey(Order, related_name='Items', on_delete=models.CASCADE)\n    item = models.ForeignKey(MenuItem, on_delete=models.CASCADE)\n    quantity = models.SmallIntegerField()\n    unit_price = models.DecimalField(max_digits=5, decimal_places=2)\n    total_price = models.DecimalField(max_digits=5, decimal_places=2)\n    class Meta:\n        unique_together = ('order' , 'item')\n    def __str__(self):\n        return self.order.id",
+        "detail": "menu.models",
+        "documentation": {}
+    },
+    {
+        "label": "IsAdminOrReadOnly",
+        "kind": 6,
+        "importPath": "menu.permissions",
+        "description": "menu.permissions",
+        "peekOfCode": "class IsAdminOrReadOnly(permissions.BasePermission):\n    def has_permission(self, request, view):\n        if request.method in permissions.SAFE_METHODS:\n            return True # allowed to any one\n        return request.user and request.user.is_staff\nclass IsAdminOrAuthenticated(permissions.BasePermission):\n    def has_permission(self, request, view):\n        return request.user.is_staff or request.user.is_authenticated \nclass IsAdminOrDeliveryCrew(permissions.BasePermission):\n    def has_permission(self, request, view):",
+        "detail": "menu.permissions",
+        "documentation": {}
+    },
+    {
+        "label": "IsAdminOrAuthenticated",
+        "kind": 6,
+        "importPath": "menu.permissions",
+        "description": "menu.permissions",
+        "peekOfCode": "class IsAdminOrAuthenticated(permissions.BasePermission):\n    def has_permission(self, request, view):\n        return request.user.is_staff or request.user.is_authenticated \nclass IsAdminOrDeliveryCrew(permissions.BasePermission):\n    def has_permission(self, request, view):\n        return request.user.is_staff or request.user.groups.filter(name='Delivery Crew').exists()",
+        "detail": "menu.permissions",
+        "documentation": {}
+    },
+    {
+        "label": "IsAdminOrDeliveryCrew",
+        "kind": 6,
+        "importPath": "menu.permissions",
+        "description": "menu.permissions",
+        "peekOfCode": "class IsAdminOrDeliveryCrew(permissions.BasePermission):\n    def has_permission(self, request, view):\n        return request.user.is_staff or request.user.groups.filter(name='Delivery Crew').exists()",
+        "detail": "menu.permissions",
+        "documentation": {}
+    },
+    {
+        "label": "CatigorySerialzers",
+        "kind": 6,
+        "importPath": "menu.serializers",
+        "description": "menu.serializers",
+        "peekOfCode": "class CatigorySerialzers(serializers.ModelSerializer):\n    class Meta:\n        model = Catigory\n        fields = '__all__'\nclass MenuItemSerializer(serializers.ModelSerializer):\n    try:\n        unclassified = Catigory.objects.get(name='unclassified')\n    except:\n        unclassified = Catigory.objects.create(name='unclassified')\n    catigory = serializers.PrimaryKeyRelatedField(",
+        "detail": "menu.serializers",
+        "documentation": {}
+    },
+    {
+        "label": "MenuItemSerializer",
+        "kind": 6,
+        "importPath": "menu.serializers",
+        "description": "menu.serializers",
+        "peekOfCode": "class MenuItemSerializer(serializers.ModelSerializer):\n    try:\n        unclassified = Catigory.objects.get(name='unclassified')\n    except:\n        unclassified = Catigory.objects.create(name='unclassified')\n    catigory = serializers.PrimaryKeyRelatedField(\n        queryset = Catigory.objects.all(),\n        default = unclassified\n    )\n    class Meta:",
+        "detail": "menu.serializers",
+        "documentation": {}
+    },
+    {
+        "label": "CartSerializer",
+        "kind": 6,
+        "importPath": "menu.serializers",
+        "description": "menu.serializers",
+        "peekOfCode": "class CartSerializer(serializers.ModelSerializer):\n    class Meta:\n        model = Cart\n        fields = '__all__'\nclass OrderSerializer(serializers.ModelSerializer):\n    class Meta:\n        model = Order\n        fields = '__all__'\nclass OrderItemSerializer(serializers.ModelSerializer):\n    class Meta:",
+        "detail": "menu.serializers",
+        "documentation": {}
+    },
+    {
+        "label": "OrderSerializer",
+        "kind": 6,
+        "importPath": "menu.serializers",
+        "description": "menu.serializers",
+        "peekOfCode": "class OrderSerializer(serializers.ModelSerializer):\n    class Meta:\n        model = Order\n        fields = '__all__'\nclass OrderItemSerializer(serializers.ModelSerializer):\n    class Meta:\n        model = OrderItem\n        fields = '__all__'",
+        "detail": "menu.serializers",
+        "documentation": {}
+    },
+    {
+        "label": "OrderItemSerializer",
+        "kind": 6,
+        "importPath": "menu.serializers",
+        "description": "menu.serializers",
+        "peekOfCode": "class OrderItemSerializer(serializers.ModelSerializer):\n    class Meta:\n        model = OrderItem\n        fields = '__all__'",
+        "detail": "menu.serializers",
+        "documentation": {}
+    },
+    {
+        "label": "CreateToken",
+        "kind": 2,
+        "importPath": "menu.signals",
+        "description": "menu.signals",
+        "peekOfCode": "def CreateToken(sender , instance=None , created=False , **kwargs):\n    if created:\n        Token.objects.create(user=instance)",
+        "detail": "menu.signals",
+        "documentation": {}
+    },
+    {
+        "label": "User",
+        "kind": 5,
+        "importPath": "menu.signals",
+        "description": "menu.signals",
+        "peekOfCode": "User = get_user_model()\n@receiver(post_save , sender=User)\ndef CreateToken(sender , instance=None , created=False , **kwargs):\n    if created:\n        Token.objects.create(user=instance)",
+        "detail": "menu.signals",
+        "documentation": {}
+    },
+    {
+        "label": "router",
+        "kind": 5,
+        "importPath": "menu.urls",
+        "description": "menu.urls",
+        "peekOfCode": "router = routers.DefaultRouter()\nrouter.register(r'menu-items', views.MenuItemView, basename='menuitem')\nrouter.register(r'catigories', views.CatigoryView, basename='catigory')\nrouter.register(r'carts', views.CartView, basename='cart')\nrouter.register(r'orders', views.OrderView, basename='order')\nrouter.register(r'order_items', views.OrderItemView, basename='orderItems')\nurlpatterns = [\n    path('cart/add-item/' , views.add_to_cart),\n    path('place_order/', views.place_order),\n    path('groups/<slug:groupName>/users/', views.add_to_group),",
+        "detail": "menu.urls",
+        "documentation": {}
+    },
+    {
+        "label": "urlpatterns",
+        "kind": 5,
+        "importPath": "menu.urls",
+        "description": "menu.urls",
+        "peekOfCode": "urlpatterns = [\n    path('cart/add-item/' , views.add_to_cart),\n    path('place_order/', views.place_order),\n    path('groups/<slug:groupName>/users/', views.add_to_group),\n    path('groups/<slug:groupName>/users/<int:pk>/', views.remove_from_group),\n    path('assign_crew/', views.assign_crew),\n    path('mark_as_delivered/', views.mark_as_delivered),\n] + router.urls\n#\n# NOTE ",
+        "detail": "menu.urls",
+        "documentation": {}
+    },
+    {
+        "label": "MenuItemView",
+        "kind": 6,
+        "importPath": "menu.views",
+        "description": "menu.views",
+        "peekOfCode": "class MenuItemView(viewsets.ModelViewSet):\n    queryset = MenuItem.objects.all()\n    serializer_class = MenuItemSerializer\n    permission_classes = [IsAdminOrReadOnly]\n    search_fields = '__all__'\n    ordering_fields = ['price', 'catigory']\nclass CatigoryView(viewsets.ModelViewSet):\n    queryset = Catigory.objects.all()\n    serializer_class = CatigorySerialzers\n    permission_classes = [IsAdminOrReadOnly]",
+        "detail": "menu.views",
+        "documentation": {}
+    },
+    {
+        "label": "CatigoryView",
+        "kind": 6,
+        "importPath": "menu.views",
+        "description": "menu.views",
+        "peekOfCode": "class CatigoryView(viewsets.ModelViewSet):\n    queryset = Catigory.objects.all()\n    serializer_class = CatigorySerialzers\n    permission_classes = [IsAdminOrReadOnly]\nclass CartView(viewsets.ModelViewSet):\n    serializer_class = CartSerializer\n    permission_classes = [IsAdminOrAuthenticated]\n    def get_queryset(self):\n        user = self.request.user\n        if user.is_staff:",
+        "detail": "menu.views",
+        "documentation": {}
+    },
+    {
+        "label": "CartView",
+        "kind": 6,
+        "importPath": "menu.views",
+        "description": "menu.views",
+        "peekOfCode": "class CartView(viewsets.ModelViewSet):\n    serializer_class = CartSerializer\n    permission_classes = [IsAdminOrAuthenticated]\n    def get_queryset(self):\n        user = self.request.user\n        if user.is_staff:\n            return Cart.objects.all()\n        return Cart.objects.filter(user=user)\nclass OrderView(viewsets.ModelViewSet):\n    serializer_class = OrderSerializer",
+        "detail": "menu.views",
+        "documentation": {}
+    },
+    {
+        "label": "OrderView",
+        "kind": 6,
+        "importPath": "menu.views",
+        "description": "menu.views",
+        "peekOfCode": "class OrderView(viewsets.ModelViewSet):\n    serializer_class = OrderSerializer\n    permission_classes = [IsAdminOrAuthenticated]\n    # need to set a filter in the view\n    def get_queryset(self):\n        user = self.request.user\n        if user.groups.filter(name='Managers').exists():\n            return Order.objects.all()\n        elif user.groups.filter(name='Delivery Crew').exists():\n            return Order.objects.filter(delivery_crew=user)",
+        "detail": "menu.views",
+        "documentation": {}
+    },
+    {
+        "label": "OrderItemView",
+        "kind": 6,
+        "importPath": "menu.views",
+        "description": "menu.views",
+        "peekOfCode": "class OrderItemView(viewsets.ModelViewSet):\n    serializer_class = OrderItemSerializer\n    permission_classes = [IsAdminOrAuthenticated]\n    def get_queryset(self):\n        user = self.request.user\n        if user.is_staff:\n            return OrderItem.objects.all()\n        return OrderItem.objects.filter(order__user=user)\n# assign user to a group\n@api_view(['POST'])",
+        "detail": "menu.views",
+        "documentation": {}
+    },
+    {
+        "label": "add_to_group",
+        "kind": 2,
+        "importPath": "menu.views",
+        "description": "menu.views",
+        "peekOfCode": "def add_to_group(request, groupName):\n    user_id = request.data['userId']\n    user = get_object_or_404(User, id=user_id)\n    group = get_object_or_404(Group, name=groupName)\n    if request.method == 'POST':\n        user.groups.add(group)\n        return Response({\"message\" : \"user added\"}, status.HTTP_201_CREATED)\n    else:\n        user.groups.remove(group)\n        return Response({\"message\" : \"user removed\"}, status.HTTP_201_CREATED)",
+        "detail": "menu.views",
+        "documentation": {}
+    },
+    {
+        "label": "remove_from_group",
+        "kind": 2,
+        "importPath": "menu.views",
+        "description": "menu.views",
+        "peekOfCode": "def remove_from_group(requset , groupName , pk):\n    user = get_object_or_404(User, id=pk)\n    group = get_object_or_404(Group , name=groupName)\n    user.groups.remove(group)\n    return Response({\"Response\" : \"User Removed\"} , status.HTTP_200_OK)\n# add to cart function\n@api_view(['POST'])\n@permission_classes([IsAdminOrAuthenticated])\ndef add_to_cart(request):\n    item_id = request.data['itemId']",
+        "detail": "menu.views",
+        "documentation": {}
+    },
+    {
+        "label": "add_to_cart",
+        "kind": 2,
+        "importPath": "menu.views",
+        "description": "menu.views",
+        "peekOfCode": "def add_to_cart(request):\n    item_id = request.data['itemId']\n    quantity = request.data['quantity']\n    user = request.user\n    item = get_object_or_404(MenuItem , id=item_id)\n    Cart.objects.create(    user= user,\n                            menu_item= item,\n                            quantity= quantity ,\n                            unit_price= item.price ,\n                            total_price= int(item.price) * int(quantity)",
+        "detail": "menu.views",
+        "documentation": {}
+    },
+    {
+        "label": "place_order",
+        "kind": 2,
+        "importPath": "menu.views",
+        "description": "menu.views",
+        "peekOfCode": "def place_order(request):\n    user = request.user\n    cart_items = user.cart.all()\n    if len(cart_items) == 0:\n        return Response({\"Response\" : \"no items to order\"} , status.HTTP_400_BAD_REQUEST)\n    order = Order(user = user , is_delivered = False, total_price=0)\n    order.save()\n    total_price = 0\n    for item in cart_items:\n        total_price += item.total_price",
+        "detail": "menu.views",
+        "documentation": {}
+    },
+    {
+        "label": "assign_crew",
+        "kind": 2,
+        "importPath": "menu.views",
+        "description": "menu.views",
+        "peekOfCode": "def assign_crew(request):\n    user_id = request.data['userId']\n    order_id = request.data['orderId']\n    user = get_object_or_404(User , id=user_id)\n    order = get_object_or_404(Order , id=order_id)\n    if not user.groups.filter(name='Delivery Crew').exists():\n        return Response({\"Response\" : \"user is not a Delivery Crew\"}, status.HTTP_400_BAD_REQUEST)\n    order.delivery_crew = user\n    order.save()\n    return Response({\"Response\" : \"Crew Assigned\"}, status.HTTP_200_OK)",
+        "detail": "menu.views",
+        "documentation": {}
+    },
+    {
+        "label": "mark_as_delivered",
+        "kind": 2,
+        "importPath": "menu.views",
+        "description": "menu.views",
+        "peekOfCode": "def mark_as_delivered(request):\n    order_id = request.data['orderId']\n    order = get_object_or_404(Order , id=order_id)\n    if order.is_delivered:\n        return Response({\"Response\" : \"Order Is Already Been Deliverd\"} , status.HTTP_400_BAD_REQUEST)\n    order.is_delivered = True\n    order.save()\n    return Response({\"Response\" : \"Order Marked As Delivered\"}, status.HTTP_200_OK)",
+        "detail": "menu.views",
+        "documentation": {}
+    },
+    {
+        "label": "application",
+        "kind": 5,
+        "importPath": "project.asgi",
+        "description": "project.asgi",
+        "peekOfCode": "application = get_asgi_application()",
+        "detail": "project.asgi",
+        "documentation": {}
+    },
+    {
+        "label": "BASE_DIR",
+        "kind": 5,
+        "importPath": "project.settings",
+        "description": "project.settings",
+        "peekOfCode": "BASE_DIR = Path(__file__).resolve().parent.parent\n# Quick-start development settings - unsuitable for production\n# See https://docs.djangoproject.com/en/4.1/howto/deployment/checklist/\n# SECURITY WARNING: keep the secret key used in production secret!\nSECRET_KEY = 'django-insecure--unz0c$3^-f-aln84+05!bubvdzwdqv$+wp-(z&qldd+9*myq+'\n# SECURITY WARNING: don't run with debug turned on in production!\nDEBUG = True\nALLOWED_HOSTS = []\n# Application definition\nINSTALLED_APPS = [",
+        "detail": "project.settings",
+        "documentation": {}
+    },
+    {
+        "label": "SECRET_KEY",
+        "kind": 5,
+        "importPath": "project.settings",
+        "description": "project.settings",
+        "peekOfCode": "SECRET_KEY = 'django-insecure--unz0c$3^-f-aln84+05!bubvdzwdqv$+wp-(z&qldd+9*myq+'\n# SECURITY WARNING: don't run with debug turned on in production!\nDEBUG = True\nALLOWED_HOSTS = []\n# Application definition\nINSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',",
+        "detail": "project.settings",
+        "documentation": {}
+    },
+    {
+        "label": "DEBUG",
+        "kind": 5,
+        "importPath": "project.settings",
+        "description": "project.settings",
+        "peekOfCode": "DEBUG = True\nALLOWED_HOSTS = []\n# Application definition\nINSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',\n    'django.contrib.messages',\n    'django.contrib.staticfiles',",
+        "detail": "project.settings",
+        "documentation": {}
+    },
+    {
+        "label": "ALLOWED_HOSTS",
+        "kind": 5,
+        "importPath": "project.settings",
+        "description": "project.settings",
+        "peekOfCode": "ALLOWED_HOSTS = []\n# Application definition\nINSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',\n    'django.contrib.messages',\n    'django.contrib.staticfiles',\n    'rest_framework',",
+        "detail": "project.settings",
+        "documentation": {}
+    },
+    {
+        "label": "INSTALLED_APPS",
+        "kind": 5,
+        "importPath": "project.settings",
+        "description": "project.settings",
+        "peekOfCode": "INSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',\n    'django.contrib.messages',\n    'django.contrib.staticfiles',\n    'rest_framework',\n    'rest_framework.authtoken',\n    'djoser', 'django_extensions',",
+        "detail": "project.settings",
+        "documentation": {}
+    },
+    {
+        "label": "MIDDLEWARE",
+        "kind": 5,
+        "importPath": "project.settings",
+        "description": "project.settings",
+        "peekOfCode": "MIDDLEWARE = [\n    'django.middleware.security.SecurityMiddleware',\n    'django.contrib.sessions.middleware.SessionMiddleware',\n    'django.middleware.common.CommonMiddleware',\n    'django.middleware.csrf.CsrfViewMiddleware',\n    'django.contrib.auth.middleware.AuthenticationMiddleware',\n    'django.contrib.messages.middleware.MessageMiddleware',\n    'django.middleware.clickjacking.XFrameOptionsMiddleware',\n]\nROOT_URLCONF = 'project.urls'",
+        "detail": "project.settings",
+        "documentation": {}
+    },
+    {
+        "label": "ROOT_URLCONF",
+        "kind": 5,
+        "importPath": "project.settings",
+        "description": "project.settings",
+        "peekOfCode": "ROOT_URLCONF = 'project.urls'\nTEMPLATES = [\n    {\n        'BACKEND': 'django.template.backends.django.DjangoTemplates',\n        'DIRS': [],\n        'APP_DIRS': True,\n        'OPTIONS': {\n            'context_processors': [\n                'django.template.context_processors.debug',\n                'django.template.context_processors.request',",
+        "detail": "project.settings",
+        "documentation": {}
+    },
+    {
+        "label": "TEMPLATES",
+        "kind": 5,
+        "importPath": "project.settings",
+        "description": "project.settings",
+        "peekOfCode": "TEMPLATES = [\n    {\n        'BACKEND': 'django.template.backends.django.DjangoTemplates',\n        'DIRS': [],\n        'APP_DIRS': True,\n        'OPTIONS': {\n            'context_processors': [\n                'django.template.context_processors.debug',\n                'django.template.context_processors.request',\n                'django.contrib.auth.context_processors.auth',",
+        "detail": "project.settings",
+        "documentation": {}
+    },
+    {
+        "label": "WSGI_APPLICATION",
+        "kind": 5,
+        "importPath": "project.settings",
+        "description": "project.settings",
+        "peekOfCode": "WSGI_APPLICATION = 'project.wsgi.application'\n# Database\n# https://docs.djangoproject.com/en/4.1/ref/settings/#databases\nDATABASES = {\n    'default': {\n        'ENGINE': 'django.db.backends.sqlite3',\n        'NAME': BASE_DIR / 'db.sqlite3',\n    }\n}\n# Password validation",
+        "detail": "project.settings",
+        "documentation": {}
+    },
+    {
+        "label": "DATABASES",
+        "kind": 5,
+        "importPath": "project.settings",
+        "description": "project.settings",
+        "peekOfCode": "DATABASES = {\n    'default': {\n        'ENGINE': 'django.db.backends.sqlite3',\n        'NAME': BASE_DIR / 'db.sqlite3',\n    }\n}\n# Password validation\n# https://docs.djangoproject.com/en/4.1/ref/settings/#auth-password-validators\nAUTH_PASSWORD_VALIDATORS = [\n    {",
+        "detail": "project.settings",
+        "documentation": {}
+    },
+    {
+        "label": "AUTH_PASSWORD_VALIDATORS",
+        "kind": 5,
+        "importPath": "project.settings",
+        "description": "project.settings",
+        "peekOfCode": "AUTH_PASSWORD_VALIDATORS = [\n    {\n        'NAME': 'django.contrib.auth.password_validation.UserAttributeSimilarityValidator',\n    },\n    {\n        'NAME': 'django.contrib.auth.password_validation.MinimumLengthValidator',\n    },\n    {\n        'NAME': 'django.contrib.auth.password_validation.CommonPasswordValidator',\n    },",
+        "detail": "project.settings",
+        "documentation": {}
+    },
+    {
+        "label": "REST_FRAMEWORK",
+        "kind": 5,
+        "importPath": "project.settings",
+        "description": "project.settings",
+        "peekOfCode": "REST_FRAMEWORK = {\n    'DEFAULT_AUTHENTICATION_CLASSES': [\n        #'rest_framework_simplejwt.authentication.JWTAuthentication',\n        'rest_framework.authentication.TokenAuthentication',\n        'rest_framework.authentication.SessionAuthentication',\n    ], \n    'DEFAULT_FILTER_BACKENDS': [\n        'django_filters.rest_framework.DjangoFilterBackend',\n        'rest_framework.filters.OrderingFilter',\n        'rest_framework.filters.SearchFilter',",
+        "detail": "project.settings",
+        "documentation": {}
+    },
+    {
+        "label": "LANGUAGE_CODE",
+        "kind": 5,
+        "importPath": "project.settings",
+        "description": "project.settings",
+        "peekOfCode": "LANGUAGE_CODE = 'en-us'\nTIME_ZONE = 'UTC'\nUSE_I18N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/4.1/howto/static-files/\nSTATIC_URL = 'static/'\n# Default primary key field type\n# https://docs.djangoproject.com/en/4.1/ref/settings/#default-auto-field\nDEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'",
+        "detail": "project.settings",
+        "documentation": {}
+    },
+    {
+        "label": "TIME_ZONE",
+        "kind": 5,
+        "importPath": "project.settings",
+        "description": "project.settings",
+        "peekOfCode": "TIME_ZONE = 'UTC'\nUSE_I18N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/4.1/howto/static-files/\nSTATIC_URL = 'static/'\n# Default primary key field type\n# https://docs.djangoproject.com/en/4.1/ref/settings/#default-auto-field\nDEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'",
+        "detail": "project.settings",
+        "documentation": {}
+    },
+    {
+        "label": "USE_I18N",
+        "kind": 5,
+        "importPath": "project.settings",
+        "description": "project.settings",
+        "peekOfCode": "USE_I18N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/4.1/howto/static-files/\nSTATIC_URL = 'static/'\n# Default primary key field type\n# https://docs.djangoproject.com/en/4.1/ref/settings/#default-auto-field\nDEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'",
+        "detail": "project.settings",
+        "documentation": {}
+    },
+    {
+        "label": "USE_TZ",
+        "kind": 5,
+        "importPath": "project.settings",
+        "description": "project.settings",
+        "peekOfCode": "USE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/4.1/howto/static-files/\nSTATIC_URL = 'static/'\n# Default primary key field type\n# https://docs.djangoproject.com/en/4.1/ref/settings/#default-auto-field\nDEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'",
+        "detail": "project.settings",
+        "documentation": {}
+    },
+    {
+        "label": "STATIC_URL",
+        "kind": 5,
+        "importPath": "project.settings",
+        "description": "project.settings",
+        "peekOfCode": "STATIC_URL = 'static/'\n# Default primary key field type\n# https://docs.djangoproject.com/en/4.1/ref/settings/#default-auto-field\nDEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'",
+        "detail": "project.settings",
+        "documentation": {}
+    },
+    {
+        "label": "DEFAULT_AUTO_FIELD",
+        "kind": 5,
+        "importPath": "project.settings",
+        "description": "project.settings",
+        "peekOfCode": "DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'",
+        "detail": "project.settings",
+        "documentation": {}
+    },
+    {
+        "label": "urlpatterns",
+        "kind": 5,
+        "importPath": "project.urls",
+        "description": "project.urls",
+        "peekOfCode": "urlpatterns = [\n    path('admin/', admin.site.urls),\n    path('api/', include('menu.urls')),\n    path('api/', include('djoser.urls')),\n    path('api/', include('djoser.urls.authtoken')),\n]",
+        "detail": "project.urls",
+        "documentation": {}
+    },
+    {
+        "label": "application",
+        "kind": 5,
+        "importPath": "project.wsgi",
+        "description": "project.wsgi",
+        "peekOfCode": "application = get_wsgi_application()",
+        "detail": "project.wsgi",
+        "documentation": {}
+    },
+    {
+        "label": "main",
+        "kind": 2,
+        "importPath": "manage",
+        "description": "manage",
+        "peekOfCode": "def main():\n    \"\"\"Run administrative tasks.\"\"\"\n    os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'project.settings')\n    try:\n        from django.core.management import execute_from_command_line\n    except ImportError as exc:\n        raise ImportError(\n            \"Couldn't import Django. Are you sure it's installed and \"\n            \"available on your PYTHONPATH environment variable? Did you \"\n            \"forget to activate a virtual environment?\"",
+        "detail": "manage",
+        "documentation": {}
+    }
+]

@@ -12,8 +12,8 @@ router.register(r'order_items', views.OrderItemView, basename='orderItems')
 urlpatterns = [
     path('cart/add-item/' , views.add_to_cart),
     path('place_order/', views.place_order),
-    path('groups/<slug:slug>/users/', views.add_to_group),
-    path('groups/<slug:slug>/users/<int:pk>/', views.remove_from_group),
+    path('groups/<slug:groupName>/users/', views.add_to_group),
+    path('groups/<slug:groupName>/users/<int:pk>/', views.remove_from_group),
     path('assign_crew/', views.assign_crew),
     path('mark_as_delivered/', views.mark_as_delivered),
     

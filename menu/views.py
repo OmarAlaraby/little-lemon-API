@@ -69,14 +69,14 @@ class OrderItemView(viewsets.ModelViewSet):
     
     
 # assign user to a group
-@api_view(['POST', 'DELETE'])
+@api_view(['POST'])
 @permission_classes([IsAdminUser])
-def add_to_group(request, slug):
+def add_to_group(request, groupName):
     user_id = request.data['userId']
     
     
     user = get_object_or_404(User, id=user_id)
-    group = get_object_or_404(Group, name=slug)
+    group = get_object_or_404(Group, name=groupName)
     
     if request.method == 'POST':
         user.groups.add(group)
@@ -88,9 +88,9 @@ def add_to_group(request, slug):
     
 @api_view(['POST'])
 @permission_classes([IsAdminUser])
-def remove_from_group(requset , slug , pk):
+def remove_from_group(requset , groupName , pk):
     user = get_object_or_404(User, id=pk)
-    group = get_object_or_404(Group , name=slug)
+    group = get_object_or_404(Group , name=groupName)
     
     user.groups.remove(group)
     return Response({"Response" : "User Removed"} , status.HTTP_200_OK)
